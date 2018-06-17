@@ -1,4 +1,4 @@
-# Filename: ass8.py
+# Filename: advass8.py
 # Description: cheating vegas
 
 import sys
@@ -23,9 +23,13 @@ def main():
         d[reels.get_str2()] += 1
         d[reels.get_str3()] += 1
 
-    print("Money spent: %d" % spent)
-    print("Money earned: %d" % total_winnings)
-    print("Net earnings: %d" % (total_winnings - spent))
+    print("Money earned:\t%d" % total_winnings)
+    print("Money spent:\t%d" % spent)
+    print("Net earnings:\t%d" % (total_winnings - spent))
+    if total_winnings - spent > 0:
+        print("Gambler is winning")
+    elif total_winnings - spent < 0:
+        print("Casino is winning")
     print("")
     total_times = spent * 3
     for key in d:

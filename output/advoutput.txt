@@ -1,19 +1,20 @@
 bliutwo@bliutwo-galliumos:~/Dropbox/Random cpp files/kathleenpython$ python3 advass8.py 
-Money spent: 100000
-Money earned: 771490
-Net earnings: 671490
+Money earned:   756825
+Money spent:    100000
+Net earnings:   656825
+Gambler is winning
 
-Times space appeared: 21055
-Percentage space appeared: 7.018333%
+Times 7 appeared: 45244
+Percentage 7 appeared: 15.081333%
 
-Times 7 appeared: 44723
-Percentage 7 appeared: 14.907667%
+Times cherries appeared: 119546
+Percentage cherries appeared: 39.848667%
 
-Times cherries appeared: 119779
-Percentage cherries appeared: 39.926333%
+Times BAR appeared: 114042
+Percentage BAR appeared: 38.014000%
 
-Times BAR appeared: 114443
-Percentage BAR appeared: 38.147667%
+Times space appeared: 21168
+Percentage space appeared: 7.056000%
 
 Exiting.
 bliutwo@bliutwo-galliumos:~/Dropbox/Random cpp files/kathleenpython$ 
