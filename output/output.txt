@@ -1,176 +1,212 @@
-Input amount to bet (0 to 50): Invalid amount.
-Input amount to bet (0 to 50): Invalid amount.
-Input amount to bet (0 to 50): cherries	cherries	7
-congrats, you won $15
-
-Input amount to bet (0 to 50): space	BAR	BAR
+bliutwo@bliutwo-galliumos:~/Dropbox/Random cpp files/kathleenpython$ python3 ass8.py 
+Input amount to bet (0 to 50): -12
+Invalid amount.
+Input amount to bet (0 to 50): 29847
+Invalid amount.
+Input amount to bet (0 to 50): 1
+space   BAR cherries
 sorry - you lost
 
-Input amount to bet (0 to 50): space	BAR	BAR
+Input amount to bet (0 to 50): 2
+BAR cherries    cherries
 sorry - you lost
 
-Input amount to bet (0 to 50): BAR	BAR	cherries
-sorry - you lost
+Input amount to bet (0 to 50): 3
+BAR BAR BAR
+congrats, you won $50
 
-Input amount to bet (0 to 50): BAR	cherries	BAR
-sorry - you lost
-
-Input amount to bet (0 to 50): Exiting.
-Input amount to bet (0 to 50): Invalid amount.
-Input amount to bet (0 to 50): Invalid amount.
-Input amount to bet (0 to 50): Invalid amount.
-Input amount to bet (0 to 50): Invalid amount.
-Input amount to bet (0 to 50): cherries	space	cherries
+Input amount to bet (0 to 50): 4
+cherries    7   cherries
 congrats, you won $5
 
-Input amount to bet (0 to 50): space	BAR	space
+Input amount to bet (0 to 50): 5
+cherries    7   cherries
+congrats, you won $5
+
+Input amount to bet (0 to 50): 6
+7   space   cherries
 sorry - you lost
 
-Input amount to bet (0 to 50): BAR	7	cherries
+Input amount to bet (0 to 50): 7
+BAR BAR cherries
 sorry - you lost
 
-Input amount to bet (0 to 50): BAR	BAR	space
+Input amount to bet (0 to 50): 8
+BAR BAR BAR
+congrats, you won $50
+
+Input amount to bet (0 to 50): 9
+BAR BAR BAR
+congrats, you won $50
+
+Input amount to bet (0 to 50): 10
+7   BAR BAR
 sorry - you lost
 
-Input amount to bet (0 to 50): cherries	cherries	BAR
-congrats, you won $75
+Input amount to bet (0 to 50): 11
+cherries    cherries    BAR
+congrats, you won $15
 
-Input amount to bet (0 to 50): cherries	7	cherries
+Input amount to bet (0 to 50): 12
+BAR cherries    7
+sorry - you lost
+
+Input amount to bet (0 to 50): 13
+BAR cherries    cherries
+sorry - you lost
+
+Input amount to bet (0 to 50): 14
+cherries    BAR BAR
+congrats, you won $5
+
+Input amount to bet (0 to 50): 15
+BAR BAR BAR
+congrats, you won $50
+
+Input amount to bet (0 to 50): 16
+BAR cherries    BAR
+sorry - you lost
+
+Input amount to bet (0 to 50): 1
+7   cherries    BAR
+sorry - you lost
+
+Input amount to bet (0 to 50): 7
+7   cherries    cherries
+sorry - you lost
+
+Input amount to bet (0 to 50): 18
+BAR cherries    BAR
+sorry - you lost
+
+Input amount to bet (0 to 50): 19
+cherries    BAR BAR
+congrats, you won $5
+
+Input amount to bet (0 to 50): 20
+BAR 7   BAR
+sorry - you lost
+
+Input amount to bet (0 to 50): 21
+cherries    BAR BAR
+congrats, you won $5
+
+Input amount to bet (0 to 50): 22
+BAR 7   BAR
+sorry - you lost
+
+Input amount to bet (0 to 50): 23
+7   BAR cherries
+sorry - you lost
+
+Input amount to bet (0 to 50): 24
+cherries    BAR space
+congrats, you won $5
+
+Input amount to bet (0 to 50): 25
+BAR BAR BAR
+congrats, you won $50
+
+Input amount to bet (0 to 50): 26
+cherries    7   cherries
+congrats, you won $5
+
+Input amount to bet (0 to 50): 27
+7   BAR BAR
+sorry - you lost
+
+Input amount to bet (0 to 50): 28
+7   BAR space
+sorry - you lost
+
+Input amount to bet (0 to 50): 29
+BAR BAR cherries
+sorry - you lost
+
+Input amount to bet (0 to 50): 30
+cherries    cherries    BAR
+congrats, you won $15
+
+Input amount to bet (0 to 50): 31
+cherries    cherries    BAR
+congrats, you won $15
+
+Input amount to bet (0 to 50): 32
+cherries    BAR cherries
+congrats, you won $5
+
+Input amount to bet (0 to 50): 33
+BAR BAR space
+sorry - you lost
+
+Input amount to bet (0 to 50): 34
+cherries    cherries    space
+congrats, you won $15
+
+Input amount to bet (0 to 50): 35
+cherries    7   7
+congrats, you won $5
+
+Input amount to bet (0 to 50): 36
+cherries    7   cherries
+congrats, you won $5
+
+Input amount to bet (0 to 50): 37
+cherries    BAR BAR
+congrats, you won $5
+
+Input amount to bet (0 to 50): 38
+7   cherries    BAR
+sorry - you lost
+
+Input amount to bet (0 to 50): 39
+BAR cherries    BAR
+sorry - you lost
+
+Input amount to bet (0 to 50): 40
+cherries    cherries    space
+congrats, you won $15
+
+Input amount to bet (0 to 50): 50
+cherries    cherries    cherries
 congrats, you won $30
 
-Input amount to bet (0 to 50): cherries	cherries	space
-congrats, you won $105
+Input amount to bet (0 to 50): 49
+BAR BAR BAR
+congrats, you won $50
 
-Input amount to bet (0 to 50): space	cherries	cherries
+Input amount to bet (0 to 50): 48
+cherries    BAR cherries
+congrats, you won $5
+
+Input amount to bet (0 to 50): 47
+cherries    space   7
+congrats, you won $5
+
+Input amount to bet (0 to 50): 46
+cherries    BAR BAR
+congrats, you won $5
+
+Input amount to bet (0 to 50): 45
+cherries    cherries    BAR
+congrats, you won $15
+
+Input amount to bet (0 to 50): 44
+cherries    cherries    cherries
+congrats, you won $30
+
+Input amount to bet (0 to 50): 43
+BAR cherries    BAR
 sorry - you lost
 
-Input amount to bet (0 to 50): cherries	BAR	cherries
-congrats, you won $45
+Input amount to bet (0 to 50): 42
+cherries    BAR BAR
+congrats, you won $5
 
-Input amount to bet (0 to 50): BAR	BAR	cherries
-sorry - you lost
+Input amount to bet (0 to 50): 41
+cherries    cherries    cherries
+congrats, you won $30
 
-Input amount to bet (0 to 50): BAR	cherries	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): 7	BAR	BAR
-sorry - you lost
-
-Input amount to bet (0 to 50): BAR	BAR	BAR
-congrats, you won $650
-
-Input amount to bet (0 to 50): BAR	cherries	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): 7	cherries	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): 7	BAR	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): cherries	BAR	cherries
-congrats, you won $85
-
-Input amount to bet (0 to 50): cherries	BAR	cherries
-congrats, you won $90
-
-Input amount to bet (0 to 50): cherries	7	cherries
-congrats, you won $95
-
-Input amount to bet (0 to 50): BAR	BAR	BAR
-congrats, you won $1000
-
-Input amount to bet (0 to 50): cherries	7	cherries
-congrats, you won $105
-
-Input amount to bet (0 to 50): BAR	BAR	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): BAR	cherries	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): BAR	7	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): cherries	7	BAR
-congrats, you won $125
-
-Input amount to bet (0 to 50): BAR	cherries	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): cherries	BAR	7
-congrats, you won $10
-
-Input amount to bet (0 to 50): BAR	cherries	BAR
-sorry - you lost
-
-Input amount to bet (0 to 50): cherries	cherries	cherries
-congrats, you won $870
-
-Input amount to bet (0 to 50): cherries	BAR	BAR
-congrats, you won $150
-
-Input amount to bet (0 to 50): BAR	cherries	BAR
-sorry - you lost
-
-Input amount to bet (0 to 50): space	BAR	BAR
-sorry - you lost
-
-Input amount to bet (0 to 50): 7	BAR	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): BAR	cherries	BAR
-sorry - you lost
-
-Input amount to bet (0 to 50): BAR	7	BAR
-sorry - you lost
-
-Input amount to bet (0 to 50): BAR	cherries	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): cherries	BAR	BAR
-congrats, you won $185
-
-Input amount to bet (0 to 50): 7	cherries	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): cherries	BAR	cherries
-congrats, you won $195
-
-Input amount to bet (0 to 50): cherries	BAR	cherries
-congrats, you won $200
-
-Input amount to bet (0 to 50): cherries	BAR	BAR
-congrats, you won $205
-
-Input amount to bet (0 to 50): BAR	BAR	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): cherries	cherries	space
-congrats, you won $645
-
-Input amount to bet (0 to 50): cherries	cherries	space
-congrats, you won $660
-
-Input amount to bet (0 to 50): BAR	cherries	7
-sorry - you lost
-
-Input amount to bet (0 to 50): cherries	BAR	BAR
-congrats, you won $230
-
-Input amount to bet (0 to 50): 7	BAR	cherries
-sorry - you lost
-
-Input amount to bet (0 to 50): cherries	7	BAR
-congrats, you won $235
-
-Input amount to bet (0 to 50): 7	cherries	BAR
-sorry - you lost
-
-Input amount to bet (0 to 50): cherries	BAR	cherries
-congrats, you won $245
-
-Input amount to bet (0 to 50): cherries	7	BAR
-congrats, you won $250
-
-Input amount to bet (0 to 50): Exiting.
+Input amount to bet (0 to 50): 0 
+Exiting.
+bliutwo@bliutwo-galliumos:~/Dropbox/Random cpp files/kathleenpython$ 
