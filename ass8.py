@@ -64,7 +64,7 @@ def main():
 
     while bet != 0:
         reels = pull()
-        winnings = get_pay_multiplier(reels)
+        winnings = bet * get_pay_multiplier(reels)
         display(reels, winnings)
         print("")
         bet = get_bet()
