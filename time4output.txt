@@ -1,0 +1,2 @@
+starting timer
+10000 words translated in 0.011320372999762185 secs
